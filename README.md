@@ -1,8 +1,8 @@
 
 
-<h1 align="center">𝗔𝗟𝗣𝗛𝗔-𝗠𝗗</h1>
+<h1 align="center">XXXWONGTOCION</h1>
 
-<h1 align="center">Survival is winning, frankline everything else is bullshit, fairy tales spun by people afraid to look life in the eye, do whatever it takes kid, survive 😏🙏</h1>
+<h1 align="center">Oyaah kuwa makini kirusi mbaya XXXWONGTOCION yuko apaa hakikisha umeniffollow</h1>
 
 
 <div style="text-align: center;">
@@ -72,7 +72,7 @@
 
 <p align="center">
   <a href="https://github.com/Keithkeizzah/ALPHA-MD/stargazers">
-    <img src="http://reporoster.com/stars/dark/Keithkeizzah/ALPHA-MD" alt="Stargazers repo roster for @Keithkeizzah/ALPHA-MD">
+    <img src="http://reporoster.com/stars/dark/Keithkeizzah/XXXWONGTOCION" alt="Stargazers repo roster for @Keithkeizzah/ALPHA-MD">
   </a>
 </p>
 
