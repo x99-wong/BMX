@@ -20,7 +20,7 @@
       <b>FORK</b><br>
       Fork the repository to customize and use the bot for your needs.
       <br><br>
-      <a href="https://github.com/keithkeizzah/ALPHA-MD/fork">
+      <a href="https://github.com/xxxwongtocion/XXXWONGTOCION/fork">
         <img src="https://img.shields.io/badge/FORK-purple" alt="FORK KEITH" width="150">
       </a>
     </td>
@@ -28,14 +28,14 @@
       <b>SESSION</b><br>
       Link your session ID to start using the bot. Follow steps if issues arise.
       <br><br>
-      <a href="https://alpha-session-56fu.onrender.com/pair">
+      <a href="https://XXX-session-56fu.onrender.com/pair">
         <img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>KEITH APIs</b><br>
+      <b>XXX APIs</b><br>
       Visit our website for Keith APIs and integrations though still updating.
       <br><br>
       <a href="https://apis-keith.vercel.app/">
